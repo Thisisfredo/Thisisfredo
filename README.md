@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thisisfredo
+- 👋 Hi, I’m @Fredrick Josiah
 - 👀 I’m interested in Backend development and mobile app development
 - 🌱 I’m currently learning React,Javascript,Flutter and Dart
 - 💞️ I’m looking to collaborate on open source projects e.g like Google summer code 
